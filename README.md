@@ -1,8 +1,12 @@
+| ⚠️ THIS REPOSITORY DEPRECATED |
+|:---:|
+
+---
+
 learning-typeorm-mysql-restapi-example
 ===
 
 Learn TypeORM and make restAPI web service
-> TypeORM을 공부하며 restapi 웹서비스를 만드는 과정을 작성합니다
 ---
 
 # Environments
